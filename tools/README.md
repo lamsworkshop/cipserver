@@ -4,7 +4,8 @@ Direct input from console to UNO.
 It responds to the following AT commands:
 - AT+CIPMUX=1
 - AT+CIPSERVER=1,4444
-- AT+CIPSEND=0,\
+- AT+CIPSEND=0,
+  
 Commands and responses will be printed at console.
 
 ## Issues
